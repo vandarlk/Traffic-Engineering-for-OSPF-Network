@@ -15,7 +15,7 @@ This project implements a **Multi-Objective OSPF Weight Optimization** framework
 * [cite_start]**Massive ROI**: In "single-bottleneck" topologies like *Airtel*, Model D achieves a **48.8x efficiency ratio** compared to Model A[cite: 778].
 * [cite_start]**Diminishing Returns**: Sensitivity analysis proves that the first 3–5 weight changes capture over **88%** of the maximum possible MLU reduction[cite: 27, 803].
 
-## 🛠 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 * [cite_start]**Gurobi Optimizer**: Ensure you have a valid Gurobi license installed.
