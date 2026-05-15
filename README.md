@@ -1,7 +1,7 @@
 ##  Getting Started
 
 ### 1. Prerequisites
-* [cite_start]**Gurobi Optimizer**: Ensure you have a valid Gurobi license installed.
+* **Gurobi Optimizer**: Ensure you have a valid Gurobi license installed.
 * **Python 3.8+**
 
 ### 2. Environment Setup
